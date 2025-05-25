@@ -27,7 +27,7 @@ Este es un proyecto sencillo de un juego plataformero en 3D creado con Unity. El
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/simple-3d-platformer.git
+   git clone https://github.com/Tomaslopera/3D_Project.git
    ```
 2. Abre el proyecto en Unity.
 

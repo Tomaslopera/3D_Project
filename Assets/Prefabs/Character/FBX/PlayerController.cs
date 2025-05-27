@@ -60,8 +60,8 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // updateMovement();
-        // updateMouseLook();
+        updateMovement();
+        updateMouseLook();
 
         // Handle jump input (only when grounded)
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
